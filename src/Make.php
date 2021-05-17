@@ -250,7 +250,7 @@ class Make
      */
     public function getChave()
     {
-        return $this->chMDFe;
+        return $this->chMDFe; 
     }
 
     /**
